@@ -2,23 +2,23 @@
 
 The purpose of the regulations is to:
 
-1. Set out procedures for motor vehicle registration, renewal, de-registration, re-registration and transfer of ownership, including two wheelers;
-2. Set out procedures for the granting of learner’s license, driver license, including driving instructor’s certificate;
-3. Provide for the fees to be paid for transaction under these regulations;
-4. Provide powers to the Authority for cancellation or suspension of registration, driving license and instructor certificate for all type of vehicles.
-5. Provide power to authority to forward any case of impersonation, wilful false declaration, tampering of documents and any other fraudulent practices related to services provided by the authority to the concerned authorities. 
-6. Establish uniform vehicle emission standards throughout the country;
-7. Encourage use of cleaner fuel and eco-friendly vehicles.
-8. Promote professionalism and quality training to produce competent drivers
-9. Provide for monitoring and enforcement mechanism to ensure quality of training provided by the institutes;
-10. Empower the Authority for retrospective enforcement of traffic rules;
-11.	Set standards for commercial passenger vehicles; 
-12.	Provide for certificates to be issued to drivers of and conductors in commercial passenger vehicles; 
-13. Provide for the licensing of commercial passenger vehicles and the conditions of operation;
-14.	Establish systems and procedures for the licensing and operation of taxis in the kingdom;
-15.	Establish vehicle standards; and
-16.	Ensure safe, comfortable and quality services to the users.
-17.	Set of traffic rules for all users of the highway and related areas in the Kingdom of Bhutan.
-18.	Set down the procedures for the use of alcohol testing devices, speed measuring devices, portable weighing devices and other road safety equipment
-19.	Establish the procedures for the issue of Transport Infringement Notices;
-20.	Establish procedures for enforcement of these regulations
+a. Set out procedures for motor vehicle registration, renewal, de-registration, re-registration and transfer of ownership, including two wheelers;
+b. Set out procedures for the granting of learner’s license, driver license, including driving instructor’s certificate;
+c. Provide for the fees to be paid for transaction under these regulations;
+d. Provide powers to the Authority for cancellation or suspension of registration, driving license and instructor certificate for all type of vehicles.
+e. Provide power to authority to forward any case of impersonation, wilful false declaration, tampering of documents and any other fraudulent practices related to services provided by the authority to the concerned authorities. 
+f. Establish uniform vehicle emission standards throughout the country;
+g. Encourage use of cleaner fuel and eco-friendly vehicles.
+h. Promote professionalism and quality training to produce competent drivers
+i. Provide for monitoring and enforcement mechanism to ensure quality of training provided by the institutes;
+j. Empower the Authority for retrospective enforcement of traffic rules;
+k. Set standards for commercial passenger vehicles; 
+l. Provide for certificates to be issued to drivers of and conductors in commercial passenger vehicles; 
+m. Provide for the licensing of commercial passenger vehicles and the conditions of operation;
+n. Establish systems and procedures for the licensing and operation of taxis in the kingdom;
+o. Establish vehicle standards; and
+p. Ensure safe, comfortable and quality services to the users.
+q. Set of traffic rules for all users of the highway and related areas in the Kingdom of Bhutan.
+r. Set down the procedures for the use of alcohol testing devices, speed measuring devices, portable weighing devices and other road safety equipment
+s. Establish the procedures for the issue of Transport Infringement Notices;
+t. Establish procedures for enforcement of these regulations
