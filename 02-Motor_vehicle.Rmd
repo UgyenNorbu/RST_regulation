@@ -5,53 +5,57 @@
 For purpose of registration, motor vehicles are categorized as:
 
 ### Heavy Vehicle
-- motor vehicle exceeding 10 tons gross vehicle weight;
-- bus with more than 25 passenger seats (including driver);
+
+a. Motor vehicle exceeding 10 tons gross vehicle weight;
+b. Bus with seating capacity more than 25 including driver;
 
 ### Medium Vehicles
-- motor vehicle exceeding 3 tons gross vehicle weight but not exceeding 10 tons gross vehicle weight;
-- vehicle with 13-24 passenger seats;
-- tractor – above 20 horsepower (hp);
+
+a. Motor vehicle exceeding 3 tons gross vehicle weight but not exceeding 10 tons gross vehicle weight;
+b. Vehicle with 13-24 passenger seats;
+c. Tractors above 20 horsepower (hp);
 
 ### Equipment
-- Road Roller;
-- Bull-dozer;
-- Mobile crane;
-- Pay loaders/excavators
-- Road Pavers
-- Any other earth-moving and construction equipment
+
+a. Road Roller;
+b. Bull-dozer;
+c. Mobile crane;
+d. Pay loaders/excavators
+e. Road Pavers
+f. Any other earth-moving and construction equipment
 
 ### Light Vehicles
-- any vehicle above 796 CC or weighing not more than 3 tons gross vehicle weight and not exceeding 12 seats (including driver);
-- Power-tiller;
-- Tractor below 20 horsepower (hp);
+
+a. Any vehicle above 796 CC or weighing not more than 3 tons gross vehicle weight and not exceeding 12 seats (including driver);
+b. Power-tiller;
+c. Tractor below 20 horsepower (hp);
 
 ### Two Wheelers
 
 ## Exemption to register
 A motor vehicle belonging to following are exempted from the requirement to register with the Authority;
 
-- Royal Bhutan Army;
-- Royal Body Guard; and
-- Royal Bhutan Police.
+a. Royal Bhutan Army;
+b. Royal Body Guard; and
+c. Royal Bhutan Police.
 
 ## Requirement for initial registration of a motor vehicle
 A person wishing to register a motor vehicle must;
 
-a. produce documents in original such as Identity Card for Bhutanese Nationals and Passport/recognized identification documents for Non-Bhutanese as proof of identity, age and eligibility.
-b. be present in person or send a representative with a written authorization and the vehicle for registration
-c. furnish documentary  proof of taking delivery from the authorized    dealer/agent/distributor in the country, including invoice in original or copy certified by Department of Revenue &Customs (DRC), emission standard compliance certificate and evidence to demonstrate that all duties and clearance charges and fees have been paid;
-d. in the case of a vehicle purchased from other countries by the owner directly without involving local dealer(s), documentary evidence of sale by the authorized dealer and evidence to demonstrate that applicable duties and charges have been paid in Bhutan.
-e. produce trade license, certificate of incorporation for registration in name of registered company; certificate of registration with CSO for NGOs or certificate of registration with Commission for Religious Organization/Letter from Dratshang Lhentshog
-f. incase of a vehicle on “allotment” to entitled government employees by the Ministry of Finance, a letter to this effect, along with a copy of the import license; Tax clearance certificate
-g. complete and sign the application (FORM 1) and undertaking (FORM 2) as prescribed; and
-h. pay the fee specified in Schedule-1 of the Regulations.
-i. an application for registration must be completed within 15days of taking delivery of a vehicle from the customs Authority or the authorized dealer, and the vehicle registered with the Authority within this period.
-j. ensure that the motor vehicle is four-stroke engine in case it is a two wheeler.
-k. ensure that the motor vehicle is at least 796 cubic capacity (cc)
-l. ensure that the windshield and front door window glasses of the vehicle are not tinted dark to obstruct visibility.
-m. registration of a vehicle damaged while on transit and auctioned by an insurance company may be accepted upon proper certification by a competent workshop and on physical inspection by the Authority.
-n. the authority shall refuse to register a motor vehicle if the above requirements are not fulfilled.
+a. Produce documents in original such as Identity Card for Bhutanese Nationals and Passport/recognized identification documents for Non-Bhutanese as proof of identity, age and eligibility.
+b. Be present in person or send a representative with a written authorization and the vehicle for registration
+c. Furnish documentary  proof of taking delivery from the authorized    dealer/agent/distributor in the country, including invoice in original or copy certified by Department of Revenue &Customs (DRC), emission standard compliance certificate and evidence to demonstrate that all duties and clearance charges and fees have been paid;
+d. In the case of a vehicle purchased from other countries by the owner directly without involving local dealer(s), documentary evidence of sale by the authorized dealer and evidence to demonstrate that applicable duties and charges have been paid in Bhutan.
+e. Produce trade license, certificate of incorporation for registration in name of registered company; certificate of registration with CSO for NGOs or certificate of registration with Commission for Religious Organization/Letter from Dratshang Lhentshog
+f. Incase of a vehicle on “allotment” to entitled government employees by the Ministry of Finance, a letter to this effect, along with a copy of the import license; Tax clearance certificate
+g. Complete and sign the application (FORM 1) and undertaking (FORM 2) as prescribed; and
+h. Pay the fee specified in Schedule-1 of the Regulations.
+i. An application for registration must be completed within 15days of taking delivery of a vehicle from the customs Authority or the authorized dealer, and the vehicle registered with the Authority within this period.
+j. Ensure that the motor vehicle is four-stroke engine in case it is a two wheeler.
+k. Ensure that the motor vehicle is at least 796 cubic capacity (cc)
+l. Ensure that the windshield and front door window glasses of the vehicle are not tinted dark to obstruct visibility.
+m. Registration of a vehicle damaged while on transit and auctioned by an insurance company may be accepted upon proper certification by a competent workshop and on physical inspection by the Authority.
+n. The authority shall refuse to register a motor vehicle if the above requirements are not fulfilled.
 
 **Offence**: Failure to register motor vehicle within 15 days
 **Penalty**: 2 units for every day delayed shall be applied if the vehicle is not registered within 15 days from the date of taking delivery.
