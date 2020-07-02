@@ -1,14 +1,23 @@
-p.caption {
-  color: #777;
-  margin-top: 10px;
+<style type="text/css">
+body{ /* Normal  */
+      font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 8px;
 }
-p code {
-  white-space: inherit;
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: #095283;
 }
-pre {
-  word-break: normal;
-  word-wrap: normal;
+h2 { /* Header 2 */
+  font-size: 22px;
+  color: #0766A5;
 }
-pre code {
-  white-space: inherit;
+h3 { /* Header 3 */
+  font-size: 8px;
+  color: #0766A5; 
 }
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
