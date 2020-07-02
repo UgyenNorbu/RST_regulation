@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.13)  1 JUL 2020 22:56
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.13)  2 JUL 2020 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -799,68 +799,35 @@ Underfull \vbox (badness 1087) has occurred while \output is active []
 [7
 
 ]
-Underfull \hbox (badness 3098) in paragraph at lines 222--222
-\TU/lmr/bx/n/12 identification documents for Non-Bhutanese as
+Underfull \hbox (badness 1189) in paragraph at lines 234--236
+[]\TU/lmr/m/n/10 Furnish documentary proof of taking delivery from the authoriz
+ed
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1442) in paragraph at lines 238--240
+\TU/lmr/m/n/10 NGOs or certificate of registration with Commission for Religiou
+s
+ []
 
 [8]
-Underfull \vbox (badness 2538) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 269--271
 
-
-Overfull \hbox (21.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 9
  []
 
-[9] [10]
+[9] [10] [11]
 
-Package natbib Warning: Citation `Nu.10' on page 11 undefined on input line 365
+Package natbib Warning: Citation `Nu.10' on page 12 undefined on input line 510
 .
 
-
+[12] [13] [14] [15] [16] [17] [18]
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
-
-Overfull \hbox (26.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 11
- []
-
-[11] [12]
-Overfull \hbox (26.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 13
- []
-
-[13] [14]
-Overfull \hbox (26.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 15
- []
-
-[15] [16]
-Overfull \hbox (26.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 17
- []
-
-[17]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-[18]
-Overfull \hbox (26.37233pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 2.3.  REQUIREMENT FOR INITIAL REGISTRATION OF A MOTOR VEHICLE \
-TU/lmr/m/n/10 19
- []
-
-[19] [20
-
-]
+[19] [20]
 Chapter 3.
-[21] [22
+[21
+
+] [22
 
 ]
 Chapter 4.
@@ -878,20 +845,20 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 568.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 714.
 [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 568.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 714.
 (./RST-Regulation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 568.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 568.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 714.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 714.
  ) 
 Here is how much of TeX's memory you used:
- 18497 strings out of 479418
- 329567 string characters out of 5884585
- 810405 words of memory out of 5000000
- 35743 multiletter control sequences out of 15000+600000
+ 18507 strings out of 479418
+ 329063 string characters out of 5884585
+ 808904 words of memory out of 5000000
+ 35753 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,6n,118p,1049b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,6n,118p,813b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on RST-Regulation.pdf (27 pages).
